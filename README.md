@@ -616,7 +616,7 @@ from sklearn.preprocessing import StandardScaler
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/fadifadifadifadifadi157-glitch/Heart-Disease-EDA.git
 ```
 
 ### 2. Move into the project directory

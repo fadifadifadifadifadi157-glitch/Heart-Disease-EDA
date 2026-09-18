@@ -819,7 +819,7 @@ This project demonstrates practical experience with:
 
 ## 👤 Author
 
-**Fadi**
+**Fowad Ajmal**
 
 This project was created as part of a practical data-analysis and machine-learning learning journey.
 

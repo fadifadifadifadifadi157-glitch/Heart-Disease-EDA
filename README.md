@@ -44,8 +44,12 @@ Heart Disease EDA/
 │
 ├── heart.csv
 │
-└── Untitled.ipynb
+├── Untitled.ipynb
+|
+└── README.md
 ```
+## GitHub Repository:
+https://github.com/fadifadifadifadifadi157-glitch/Heart-Disease-EDA.git
 
 ### Files and folders
 
@@ -54,9 +58,6 @@ Heart Disease EDA/
 | `.ipynb_checkpoints/` | Jupyter Notebook's automatically generated checkpoint files |
 | `heart.csv` | Heart disease dataset used by the notebook |
 | `Untitled.ipynb` | Main Jupyter Notebook containing the EDA, cleaning, statistical analysis, and preprocessing |
-
-##GitHub Repository:
-https://github.com/fadifadifadifadifadi157-glitch/Heart-Disease-EDA.git
 
 ### Dataset filename note
 

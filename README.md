@@ -55,6 +55,9 @@ Heart Disease EDA/
 | `heart.csv` | Heart disease dataset used by the notebook |
 | `Untitled.ipynb` | Main Jupyter Notebook containing the EDA, cleaning, statistical analysis, and preprocessing |
 
+##GitHub Repository:
+https://github.com/fadifadifadifadifadi157-glitch/Heart-Disease-EDA.git
+
 ### Dataset filename note
 
 The notebook currently loads the dataset with:
@@ -820,7 +823,3 @@ This project demonstrates practical experience with:
 This project was created as part of a practical data-analysis and machine-learning learning journey.
 
 ---
-
-## 📄 License
-
-This project is intended for educational and learning purposes. If you add a specific dataset source or license to the repository, update this section accordingly.
